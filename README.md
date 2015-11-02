@@ -1,5 +1,5 @@
 # MD5-64Base
-Convert File to MD5 and Base64.
+Generate MD5 and Base64 of a File.
 
 ## Images
 
