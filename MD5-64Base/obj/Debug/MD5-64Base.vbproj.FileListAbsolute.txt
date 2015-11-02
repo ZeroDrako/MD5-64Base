@@ -1,0 +1,16 @@
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-64Base.vbprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5_64Base.Form1.resources
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5_64Base.Resources.resources
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-64Base.vbproj.GenerateResource.Cache
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.exe.config
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.exe
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.pdb
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.xml
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.exe
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.xml
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.pdb
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.exe.manifest
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\bin\Debug\MD5-Base64.application
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.exe.manifest
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.application
+d:\documentos\visual studio 2015\Projects\MD5-64Base\MD5-64Base\obj\Debug\MD5-Base64.TrustInfo.xml
