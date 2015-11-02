@@ -1,5 +1,5 @@
 # MD5-64Base
-Convert File to MD5 and Base64 to search on "fgts.jp" archive. 
+Convert File to MD5 and Base64.
 
 ## Images
 
